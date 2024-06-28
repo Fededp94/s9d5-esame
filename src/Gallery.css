@@ -1,0 +1,14 @@
+.gallery {
+  margin: 20px 0;
+}
+
+.movies {
+  display: flex;
+  gap: 10px;
+}
+
+.movie img {
+  width: 150px;
+  height: 225px;
+  object-fit: cover;
+}

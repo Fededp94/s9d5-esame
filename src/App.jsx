@@ -1,9 +1,13 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import Gallery from "./components/Gallery";
-import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
+import "./Component/Navbar.css";
+import "./Component/Footer.css";
+import "./ComponentGallery.css";
+
+import Navbar from "./Component/Navbar.css";
+import Footer from "./Component/Footer.css";
+import Gallery from "./Component/Gallery.css";
 
 function App() {
   return (

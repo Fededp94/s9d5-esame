@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>© 2024 Netflix Clone</p>
+      <p>© 2024 Netflix</p>
     </footer>
   );
 };
